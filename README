@@ -1,0 +1,1 @@
+Client and server written in Java. Server accepts multiple concurrent connections from clients by creating unique handler threads, and will send back the sums of integer sequences that it receives. Client performs checking to ensure the integer sequences are legal (numbers separated by whitespaces).
